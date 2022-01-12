@@ -7,9 +7,9 @@ CPS Alerts: "§7[§cAlerts§7] §b{playername} §eis clicking §c{cps} §eCPS"
 # How long in between each CPS Alert.
 CPS Alert Cooldown: 5
 # CPS Limit, all other hits after this amount will be CANCELLED!
-CPS Limit: 30
+CPS Limit: 40
 # Amount of CPS before the Alerts are triggered.
-Amount of CPS: 25
+Amount of CPS: 30
 # Popup enabled message.
 Enabled Popup: "§aYour CPS popup has been Enabled."
 # Popup disabled message.
@@ -19,7 +19,7 @@ Discord Webhook:
   # Should the Webhook be enabled? true or false.
   Enabled: true
   # Your Webhook URL from your Discord server.
-  Webhook URL: ""
+  Webhook URL: "https://discord.com/api/webhooks/930879262599303259/deDWqr4OjkE93vl1gTMl984aEFISO-VSMbXJAIwvEuRbAWZCvC9i7UWAU_-VAaoylCzH"
   # The Embedded message that gets sent to the Webhook.
   Embed Message: "**{playername}** is clicking **{cps}** CPS"
   # The display name of the Webhook.
